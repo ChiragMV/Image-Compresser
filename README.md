@@ -137,3 +137,6 @@ imwrite(RGB,'compressed.jpg');
 
 ## Conclusion
 This script provides a comprehensive workflow for reading an image, converting it to grayscale, plotting its histograms, and compressing it using DCT. The results are visually compared using subplots, and the compressed image is saved for further use. Make sure to test the script with different images and compression rates to understand its functionality better.
+
+## References
+Online research papers
